@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <PackageReference Include="EPPlus" Version="4.5.3.3" />
-    <PackageReference Include="namasdev.Core.en" Version="0.1.0" />
+    <PackageReference Include="namasdev.Core.en" Version="[0.1.2,0.2.0)" />
   </ItemGroup>
 
   <!-- System.Drawing.Color is available on net48 via framework assembly;
